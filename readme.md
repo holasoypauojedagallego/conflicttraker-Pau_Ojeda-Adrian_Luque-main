@@ -38,3 +38,5 @@ El código está separado por capas (Controller, Service, Repository) y uso DTOs
 
 
 Video demostrando:https://www.youtube.com/watch?v=4UzYgdfMC2E
+
+Profe, este es como el de mi compañero Adrian, solo que he tenido que hacer otra para yo también poder hacerla
