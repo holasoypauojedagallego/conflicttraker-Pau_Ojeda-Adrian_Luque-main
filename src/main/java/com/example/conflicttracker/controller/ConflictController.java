@@ -17,7 +17,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api/v1/conflicts")
-@CrossOrigin("https://conflicttraker-frontend-pau-ojeda.vercel.app")
+@CrossOrigin(origins = "https://conflicttraker-frontend-pau-ojeda.vercel.app")
 public class ConflictController {
 
     private final ConflictService servicioConflicto;

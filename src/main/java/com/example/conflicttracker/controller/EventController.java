@@ -13,7 +13,7 @@ import java.util.stream.Collectors;
 
 @RestController
 @RequestMapping("/api/v1/events")
-@CrossOrigin("https://conflicttraker-frontend-pau-ojeda.vercel.app")
+@CrossOrigin(origins = "https://conflicttraker-frontend-pau-ojeda.vercel.app")
 public class EventController {
 
     private final EventService servicioEvento;
